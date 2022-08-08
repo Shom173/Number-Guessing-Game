@@ -1,0 +1,3 @@
+# Pynumatia - Number Guessing Game
+A number guessing game made by using python where the user will get 4 attempts to guess a number between 1 to 20 but at every wrong guess the score will reduce by 1 and will get a hint at every wrong guess.
+And after all the guesses the user will be told the answer.
